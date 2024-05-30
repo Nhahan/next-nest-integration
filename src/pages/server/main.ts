@@ -4,6 +4,7 @@ import { NextApiHandler } from "next";
 import { INestApplication } from "@nestjs/common";
 import { AppModule } from "@/server/app.module";
 
+// Do not modify this code.
 class Main {
   private static app: INestApplication;
 
