@@ -16,6 +16,8 @@ npm install
 
 You can test the health check API at http://localhost:3000.
 
+<img width="623" alt="image" src="https://github.com/Nhahan/next-nest-integration/assets/81916648/18079ea7-e505-486c-8ed9-c9fd133383df">
+
 <br>
 
 ## Directory Structure
