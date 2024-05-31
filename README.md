@@ -1,4 +1,4 @@
-# Next.js 14 with NestJS Integration Sample Project
+# Next.js14 with NestJS Integration Sample Project
 
 This is a sample project that uses [Next.js](https://nextjs.org) 14 and [NestJS](https://nestjs.com) on a single server. NestJS serves as the backend for the Next.js application, making backend development easier.
 
@@ -9,6 +9,12 @@ This is a sample project that uses [Next.js](https://nextjs.org) 14 and [NestJS]
 ```bash
 npm install
 ```
+
+<br>
+
+## Testing
+
+You can test the health check API at http://localhost:3000.
 
 <br>
 
