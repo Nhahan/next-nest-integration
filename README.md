@@ -23,7 +23,7 @@ You can test the health check API at http://localhost:3000.
 ## Directory Structure
 
 - **Frontend**: Write your Next.js code in `/src/app`.
-- **Backend**: Write your NestJS code in `/src/pages`.
+- **Backend**: Write your NestJS code in `/src/pages/server`.
 
 <br>
 
